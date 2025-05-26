@@ -1,75 +1,82 @@
-# IchibanID: "私は一人しかいない"からはじまる愛のシステム
+# IchibanID: A Matching System for Those Who Don't Want to Be Scored
 
-> 詳しくは、あなたの瞳で。愛して、バルス。
-
----
-
-## 🔥 このプロジェクトについて
-
-**IchibanID** は、網膜認証 × ビッグファイブ性格分析 × 愛の倫理を融合した  
-「評価されない人が、愛される」ことを目的としたマッチングシステムの構想です。
+> You only have one self.  
+> You only need one identity.  
+> You deserve to be loved without being ranked.
 
 ---
 
-## 🌍 問題意識
+## 🧠 What is this?
 
-- SNSやアプリでは複数アカウントが当たり前
-- 誰もが“演じた自分”を差し出して関係を築いている
-- 評価、ランク、いいね数……すべてが人間を数値化している
+**IchibanID** is a prototype idea for a non-evaluative, trust-based matching system.
 
----
-
-## 💡 解決のアプローチ
-
-- **1人1アカウントの徹底**：網膜認証 or 生体IDで保証（捨て垢不可）
-- **性格の数値化はしない**：ビッグファイブによる波長分析のみ
-- **出会いの結果は“詩”や“色”で返す**：数値ではなく感覚でつながる
-- **AI評価は拒否、選ぶのは人間の手**：判断を残す、人の尊厳のために
+It’s based on three principles:
+- You are only one person — no alternate accounts.
+- Your personality matters — not your social rank.
+- Real love happens when data steps back.
 
 ---
 
-## ✨ 使われる技術（予定）
+## 🔐 Concept
 
-- OpenAI API（性格分析や対話アシスト）
-- n8n（ノーコード自動化フロー）
-- Figma（UIモック作成）
-- Glide または Webflow（MVPプロト作成用）
-
----
-
-## 🧪 プロトタイプ構想
-
-1. **ログイン画面（虹彩認証 or ユニークコード）**
-2. **性格診断（ビッグファイブ式UI）**
-3. **相性結果 → 言葉と色で表示（例：「この人、バルスしていいですか？」）**
-4. **ログは残さない・再評価もなし：一度の“出会い”がすべて**
+- 🌐 **1 person = 1 account**, enforced through biometric identity (like iris scan)
+- 🧬 **Big Five personality traits** as the foundation (no scoring, only resonance)
+- 🌈 **Matching results shown via poetry or color** — not numbers, not “likes”
+- 🤖 **AI does not make choices for you** — only assists when invited
 
 ---
 
-## 💬 呼びかけ
+## 💡 Why?
 
-このプロジェクトは**思想から生まれた試み**です。  
-もしこの世界観に共鳴するなら──
-
-- デザイナー
-- ノーコード開発者
-- 哲学好きなエンジニア
-- プロダクトの“魂”を大切にする人
-
-どんな形でも参加を歓迎します。
+Because we’re tired of being optimized.  
+Because dating apps became marketplaces.  
+Because love is not a KPI.  
+Because some people deserve to be loved even if they’re not “recommended.”
 
 ---
 
-## 📫 コンタクト
+## ✨ Tech stack (planned)
 
-📮 メール：`fureya.me82@outlook.jp`
+- OpenAI API (for dialogue and description)
+- Big Five-based personality diagnostics
+- n8n for automation
+- Figma / Glide / Webflow for early UI and MVP prototyping
 
 ---
 
-## 🕊️ 最後に
+## 🧪 Prototype vision
 
-> 「監視社会は好まない」
+1. Iris or unique-code login screen (only one account per person)
+2. Big Five test interface (simple, friendly)
+3. Output in poetic/visual form — e.g., "You feel like warm green. You may hurt each other beautifully."
+4. No logs. No rankings. One chance per encounter.
 
-評価されない人も、  
-生きていい、愛されていい。  
-これはそのための、最初のコードです。
+---
+
+## 💬 Invitation
+
+If this resonates with you:
+
+- Engineers with an interest in emotional systems  
+- Philosophical devs who hate the leaderboard  
+- UX designers who believe design is moral  
+- Anyone tired of quantified connection
+
+Please feel free to reach out.
+
+---
+
+## 📫 Contact
+
+📮 Email: `fureya.me82@outlook.jp`  
+(*Replace with your own!*)
+
+---
+
+## 🕊️ Final words
+
+> “We don’t need a surveillance society.  
+> The beginning was just a friend’s question.”
+
+This project isn't about building an app.  
+It's about recovering the space where people are allowed to b
